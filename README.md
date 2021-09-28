@@ -1,2 +1,2 @@
-# Quantiful-Assessment
-Quantiful Data Science Internship/Graduate  Programme Assessment
+# sales data analysis
+sales data analysis
