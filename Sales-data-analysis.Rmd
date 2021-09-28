@@ -1,5 +1,5 @@
 ---
-title: "Quantiful Assessment"
+title: "Sales data analysis"
 author: "Yongqi Liang"
 date: "21/08/2021"
 output: html_document
